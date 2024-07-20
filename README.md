@@ -1,6 +1,6 @@
 PROMPT FOR LLAMA3:
 
-Considering the following issue where the issue title is "{test.loc[i,'original_issue_title']}" and issue body is "{test.loc[i,'original_issue_body']}", please categorize this issue as bug or enhancement or something else. Your response should be either bug, or enhancement, or something else. Do not provide any explanation.
+Considering the following issue where the issue title is "{test.loc[i,'issue_title']}" and issue body is "{test.loc[i,'issue_body']}", please categorize this issue as bug or enhancement or something else. Your response should be either bug, or enhancement, or something else. Do not provide any explanation.
 
 ***
 
